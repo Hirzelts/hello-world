@@ -1,2 +1,3 @@
 # hello-world
-firts try
+i suck!
+
